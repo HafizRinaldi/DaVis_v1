@@ -61,7 +61,7 @@ Follow these instructions to get the project up and running on your local machin
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd flutter-csv-analyzer
+    cd davis_v1
     ```
 
 3.  **Install dependencies:**
@@ -119,4 +119,5 @@ Have an idea for a new feature? Feel free to open an issue to discuss it!
 ## 📜 **License**
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 

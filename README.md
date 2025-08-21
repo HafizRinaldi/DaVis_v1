@@ -56,7 +56,7 @@ Follow these instructions to get the project up and running on your local machin
 
 1.  **Clone this repository:**
     ```sh
-    git clone https://github.com/HafizRinaldi/DaVis_v1.git
+    git clone https://github.com/HafizRinaldi/davis_v1.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -119,5 +119,6 @@ Have an idea for a new feature? Feel free to open an issue to discuss it!
 ## 📜 **License**
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 
 

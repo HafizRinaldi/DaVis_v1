@@ -56,7 +56,7 @@ Follow these instructions to get the project up and running on your local machin
 
 1.  **Clone this repository:**
     ```sh
-    git clone https:https://github.com/HafizRinaldi/DaVis_v1.git
+    git clone https://github.com/HafizRinaldi/DaVis_v1.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -91,7 +91,7 @@ Follow these instructions to get the project up and running on your local machin
 The application is designed to be easily customizable.
 
 * **Colors**: To change the application's color scheme, simply modify the static color variables in the `lib/utils/colors/colors.dart` file. All UI components reference these variables, ensuring consistent changes across the app.
-* **Language**: To add more languages or change existing text, edit the `_localizedValues` map located in the `lib/utils/leanguage.dart` file. Add a new language code entry and provide the translated strings.
+* **Language**: To add more languages or change existing text, edit the `_localizedValues` map located in the `lib/utils/language.dart` file. Add a new language code entry and provide the translated strings.
 
 ## 🤝 **Contributing**
 
@@ -119,3 +119,4 @@ Have an idea for a new feature? Feel free to open an issue to discuss it!
 ## 📜 **License**
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+

@@ -1,4 +1,4 @@
-# Flutter CSV Data Analyzer 📊
+# Flutter CSV Data Analyzer(DaVis) 📊
 
 Welcome to the Flutter CSV Data Analyzer, a powerful and intuitive mobile application built with Flutter for quick and easy initial data analysis directly from your device. This app is designed for data analysts, students, and anyone interested in gaining insights from CSV datasets on the go.
 
@@ -61,7 +61,7 @@ Follow these instructions to get the project up and running on your local machin
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd flutter-csv-analyzer
+    cd davis
     ```
 
 3.  **Install dependencies:**
@@ -90,8 +90,8 @@ Follow these instructions to get the project up and running on your local machin
 
 The application is designed to be easily customizable.
 
-* **Colors**: To change the application's color scheme, simply modify the static color variables in the `lib/app_colors.dart` file. All UI components reference these variables, ensuring consistent changes across the app.
-* **Language**: To add more languages or change existing text, edit the `_localizedValues` map located in the `lib/app_localizations.dart` file. Add a new language code entry and provide the translated strings.
+* **Colors**: To change the application's color scheme, simply modify the static color variables in the `lib/utils/colors.dart` file. All UI components reference these variables, ensuring consistent changes across the app.
+* **Language**: To add more languages or change existing text, edit the `_localizedValues` map located in the `lib/utils/language.dart` file. Add a new language code entry and provide the translated strings.
 
 ## 🤝 **Contributing**
 

@@ -54,7 +54,7 @@ Follow these instructions to get the project up and running on your local machin
 ### **Installation & Setup**
 
 1. **Clone this repository:**  
-   git clone https://github.com/your-username/flutter-csv-analyzer.git
+   git clone https://github.com/HafizRinaldi/DaVis_v1.git
 
 2. **Navigate to the project directory:**  
    cd flutter-csv-analyzer

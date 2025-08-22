@@ -26,7 +26,8 @@ This application is packed with features to make preliminary data analysis seaml
 
 | | |
 |:---:|:---:|
-| *Main Screen & Feature Explanations* | *Visualization Tab with Legend* |
+| *Main Screen & Feature Explanations* <img src="screenshoot/home_screen.png" width="200"> 
+| *Visualization Tab with Legend* |
 |  |  |
 | *Correlation Matrix Example* | *Smart Data Cleaning Menu* |
 |  |  |
@@ -119,6 +120,7 @@ Have an idea for a new feature? Feel free to open an issue to discuss it!
 ## 📜 **License**
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 
 
 

@@ -26,10 +26,10 @@ This application is packed with features to make preliminary data analysis seaml
 
 | | |
 |:---:|:---:|
-| *Main Screen & Feature Explanations* <img src="screenshoot/main_page.png" width="200"> *Main Screen & Feature Explanations*
-| *Visualization Tab with Legend* |
+|  <img src="screenshoot/main_page.png" width="200"> 
+| <img src="screenshoot/bar_chart.png" width="200">>  |
 |  |  |
-| *Correlation Matrix Example* | *Smart Data Cleaning Menu* |
+| <img src="screenshoot/pie_chart.png" width="200"> | <img src="screenshoot/data_cleaning.png" width="200"> |
 |  |  |
 
 ## 🛠️ **Technology Stack**
@@ -120,6 +120,7 @@ Have an idea for a new feature? Feel free to open an issue to discuss it!
 ## 📜 **License**
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 
 
 
